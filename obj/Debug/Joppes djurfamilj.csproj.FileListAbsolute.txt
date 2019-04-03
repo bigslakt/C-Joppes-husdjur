@@ -1,0 +1,7 @@
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\bin\Debug\Joppes djurfamilj.exe.config
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\bin\Debug\Joppes djurfamilj.exe
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\bin\Debug\Joppes djurfamilj.pdb
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\obj\Debug\Joppes djurfamilj.csproj.CoreCompileInputs.cache
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\obj\Debug\Joppes djurfamilj.exe
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\obj\Debug\Joppes djurfamilj.pdb
+D:\Users\Robin\Alla filer\Programering\Programering C#\Programmering 2\Joppes djurfamilj\Joppes djurfamilj\obj\Debug\Joppes djurfamilj.csprojResolveAssemblyReference.cache
